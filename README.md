@@ -8,6 +8,7 @@ I'm a Computer Science student at UTBM (Université de Technologie de Belfort-Mo
 - 💼 I'm working at JTEKT, gaining valuable industry experience.
 - ☁️ I'm passionate about cloud computing and scripting.
 - 🏓 I love playing table tennis in my free time.
+- 🎮 I'm addicted to PokeRogue.
 - 🌱 I’m currently learning more about DevOps practices and Kubernetes.
 - 📫 How to reach me: [loic.michel@utbm.fr](mailto:loic.michel@utbm.fr)
 
